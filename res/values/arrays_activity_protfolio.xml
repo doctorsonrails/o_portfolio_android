@@ -1,0 +1,15 @@
+<resources>
+    <!-- Used in View/Spinner1.java -->
+    <string-array name="durationtype">
+        <item>hours</item>
+        <item>min</item>
+    </string-array>
+    
+    <string-array name="duration">
+        <item>1</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+ </resources>

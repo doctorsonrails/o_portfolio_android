@@ -1,0 +1,6 @@
+<sync-adapter xmlns:android="http://schemas.android.com/apk/res/android"
+   android:contentAuthority="com.oportfolio.data"
+    android:accountType="com.oportfolio"
+    android:supportsUploading="false"
+    android:userVisible="true"  
+/> 

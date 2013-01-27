@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+     <item
+        android:id="@+id/menu_SyncItem"
+        android:icon="@drawable/ic_action_reload_blue"
+        android:showAsAction="always"
+        android:title="@string/menu_sync_item"/>
+    
+    <item
+        android:id="@+id/menu_AddItem"
+        android:icon="@drawable/ic_action_add"
+        android:showAsAction="always"
+        android:title="@string/menu_add_item"/>
+
+</menu>

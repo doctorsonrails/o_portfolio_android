@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+            android:title="@string/auth_title" />
+
+    <PreferenceScreen
+        android:key="account_settings"
+        android:title="@string/auth_title"
+        android:summary="@string/auth_settings">
+<!--         <intent -->
+<!--             android:action="android.intent.action.VIEW" -->
+<!--             android:targetPackage="com.thathdevice.comms" -->
+<!--             android:targetClass="com.thathdevice.comms.Preferences" /> -->
+    </PreferenceScreen>
+    
+</PreferenceScreen>

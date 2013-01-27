@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">OPortfolio Manager</string>
+    <string name="auth_title">OPortfolio Authentication</string>
+    <string name="auth_settings">OPortfolio Settings</string>
+
+</resources>

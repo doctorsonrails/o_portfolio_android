@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/lblDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_description" />
+
+    <EditText
+        android:id="@+id/txtDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/access_description"
+        android:hint="@string/hint_description"
+        android:lines="4"
+        android:maxLines="4" />
+
+    <TextView
+        android:id="@+id/lblReflection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_reflection" />
+
+    <EditText
+        android:id="@+id/txtReflection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/access_reflection"
+        android:hint="@string/hint_reflection"
+        android:lines="4"
+        android:maxLines="4" />
+
+</LinearLayout>

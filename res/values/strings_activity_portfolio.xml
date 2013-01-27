@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="menu_add_item">Add new Item</string>
+    <string name="menu_save_item">Save</string>
+    <string name="menu_sync_item">Sync</string>
+    
+    <string name="text_title">Title</string>
+    <string name="hint_title">Enter event Title</string>
+    <string name="access_title">Title</string>
+    
+    <string name="text_description">Description</string>
+    <string name="hint_description">Enter event descriptions</string>
+    <string name="access_description">Enter event description.</string>
+    
+    <string name="text_reflection">Reflection</string>
+    <string name="hint_reflection">Reflection on the event</string>
+    <string name="access_reflection">Reflection on the event</string>
+    
+    
+    <string name="text_eventdate">Event Date</string>
+    <string name="hint_eventdate">Date of the event</string>
+    <string name="access_eventdate">Date the event occured on.</string>
+    
+    
+    <string name="text_duration">Event Duration</string>
+    <string name="hint_duration">Duration of the event</string>
+    <string name="access_duration">Duration on the event</string>
+    
+ 
+    <string name="text_tags">Tags</string>
+    <string name="hint_tags">Enter search Tags</string>
+    <string name="access_tags">Event tags.</string>
+ 
+</resources>
